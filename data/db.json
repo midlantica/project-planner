@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create a new home page banner",
+      "details": "aaaaaaaaaaaaaaaaaaaaaaa",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem ipsum 02",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "Make Tacos for your baby",
+      "details": "lorem ipsum 03",
+      "complete": false
+    },
+    {
+      "id": 4,
+      "title": "Buy a fur coat",
+      "details": "lorem ipsum 04",
+      "complete": false
+    },
+    {
+      "title": "Do the thing!",
+      "details": "lorem ipsum baby!",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "My new new thing",
+      "details": "New new lorem ipsum",
+      "complete": false,
+      "id": 7
+    },
+    {
+      "title": "Doop do doop do doop",
+      "details": "Who was that man, I'd like to shake his hand.",
+      "complete": false,
+      "id": 8
+    }
+  ]
+}
