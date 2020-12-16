@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Create a new home page banner",
       "details": "aaaaaaaaaaaaaaaaaaaaaaa",
-      "complete": true
+      "complete": false
     },
     {
       "id": 2,
@@ -16,13 +16,13 @@
       "id": 3,
       "title": "Make Tacos for your baby",
       "details": "lorem ipsum 03",
-      "complete": false
+      "complete": true
     },
     {
       "id": 4,
       "title": "Buy a fur coat",
       "details": "lorem ipsum 04",
-      "complete": false
+      "complete": true
     },
     {
       "title": "Do the thing!",
